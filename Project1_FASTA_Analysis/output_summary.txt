@@ -1,0 +1,18 @@
+==============================
+File: sequence (3).fasta
+Number of sequences: 1
+Total base pairs: 280
+Average length: 280
+==============================
+==============================
+File: sequence (4).fasta
+Number of sequences: 1
+Total base pairs: 280
+Average length: 280
+==============================
+==============================
+File: sequence (5).fasta
+Number of sequences: 1
+Total base pairs: 201
+Average length: 201
+==============================
